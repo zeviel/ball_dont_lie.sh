@@ -3,6 +3,6 @@ Web-API for [app.balldontlie.io](https://app.balldontlie.io) an free API to acce
 
 ## Example
 ```bash
-source ball_dont_lie.sh
+source ./ball_dont_lie.sh
 get_players "page"
 ```
